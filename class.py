@@ -3,7 +3,7 @@ import random
 # List of people
 people = [
     "Joshua", "Courtney", "Reignan", "Zaidan","Luke","Rian","Isaiah","Harmony","Zayla"," Allyssa",
-    "william","Christopher","Jonathon","Kaylie","Blake","Brooke","Addison","Zana","Brian","Kendrum",
+    "William","Christopher","Jonathon","Kaylie","Blake","Brooke","Addison","Zana","Brian","Kendrum",
     "Jayson","Jeffrey","Maiya"
     
 ]
