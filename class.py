@@ -2,9 +2,9 @@ import random
 
 # List of people
 people = [
-    "Lylah", "Faith", "Katelyn", "Chloe","Kaiyah","Caden","Andrea","Christopher","Braylin"," Isabella",
-    "Madilynn","Fredrick","Jesus","Gabriele","Hudson"," Joseph","Tessa","Shamariah","Karter","Savannah",
-    "Brayden","Micheal","Jose","Austine","Allison","Ke'Airah"
+    "Joshua", "Courtney", "Reignan", "Zaidan","Luke","Rian","Isaiah","Harmony","Zayla"," Allyssa",
+    "william","Christopher","Jonathon","Kaylie","Blake","Brooke","Addison","Zana","Brian","Kendrum",
+    "Jayson","Jeffrey","Maiya"
     
 ]
 
